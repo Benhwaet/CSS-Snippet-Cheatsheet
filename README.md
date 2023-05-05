@@ -1,2 +1,2 @@
 # CSS-Snippet-Cheatsheet
-Mock-up provided by Full Stack Developer Bootcamp (By Edx hosted by UNB)
+Mock-up to be copied provided by Full Stack Developer Bootcamp (By Edx hosted by UNB)
